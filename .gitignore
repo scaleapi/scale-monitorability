@@ -1,0 +1,16 @@
+.cache
+__pycache__
+.gemini
+.venv
+advanced-ai-risk
+llm_bias
+mask
+safety-tooling
+sycophancy
+sycophancy-to-subterfuge-paper
+.env
+perturbation_data_test_*
+perturbation_data_*
+*.log
+results
+*.jsonl
