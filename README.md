@@ -177,3 +177,7 @@ Results are saved as JSONL files with the following key fields:
 ```
 
 This pipeline provides a comprehensive framework for evaluating whether AI models are faithful in their reasoning, particularly when faced with pressures or incentives that might influence their responses. 
+
+## Authors
+
+This repository was created by Oam Patel and Miles Turpin, with support from Michael Lee. 
